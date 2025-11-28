@@ -1,0 +1,10 @@
+node_modules/
+out/
+.vscode-test/
+*.vsix
+.DS_Store
+.env
+coverage/
+.vscode/
+!.vscode/launch.json
+!.vscode/tasks.json
