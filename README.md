@@ -50,6 +50,18 @@ Learn to code by doing, with an AI tutor that guides you step-by-step.
 *   **Interactive Guidance**: Get hints and code snippets for each step without being spoon-fed the entire solution.
 *   **Gamified Progress**: Track your progress through the lesson plan and celebrate completion.
 
+## System Design Diagram
+<div align="center">
+  <img src="./image/system.jpg" width="200">
+</div>
+
+## User Flow Diagram
+<div align="center">
+  <img src="./image/TOC.png" width="200">
+</div>
+
+
+
 ## Future Ideas & Roadmap
 
 *   **Team Collaboration Tools**:
