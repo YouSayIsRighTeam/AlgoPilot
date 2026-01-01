@@ -84,6 +84,22 @@ AlgoPilot streamlines your competitive programming practice by bridging the gap 
   <img src="./image/TOC.png" width="800">
 </div>
 
+## Technologies Used
+
+### Frontend
+- TypeScript
+- VS Code Extension API
+- Axios
+
+### Backend
+- FastAPI
+- PostgreSQL + SQLAlchemy
+- Celery + RabbitMQ + Redis
+- Ollama / OpenAI API
+
+### Infrastructure
+- Docker & Docker Compose
+
 
 ## Future Ideas & Roadmap
 
