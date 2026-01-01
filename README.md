@@ -9,10 +9,7 @@ AlgoPilot is an AI-powered VS Code Extension designed to assist developers, espe
 3. Search for **`AlgoPilot`**.
 4. Click **Install** to add the extension to your editor.
 
-
-<div align="center">
-  <img src="./image/Algopilot.png" width="800">
-</div>
+![](./image/Algopilot.png)
 
 ## Setup & Configuration
 
