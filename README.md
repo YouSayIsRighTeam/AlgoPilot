@@ -61,7 +61,6 @@ Learn to code by doing, with an AI tutor that guides you step-by-step.
 </div>
 
 
-
 ## Future Ideas & Roadmap
 
 *   **Team Collaboration Tools**:
