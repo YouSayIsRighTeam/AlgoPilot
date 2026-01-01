@@ -52,12 +52,12 @@ Learn to code by doing, with an AI tutor that guides you step-by-step.
 
 ## System Design Diagram
 <div align="center">
-  <img src="./image/system.jpg" width="200">
+  <img src="./image/system.jpg" width="800">
 </div>
 
 ## User Flow Diagram
 <div align="center">
-  <img src="./image/TOC.png" width="200">
+  <img src="./image/TOC.png" width="800">
 </div>
 
 
