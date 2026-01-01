@@ -2,9 +2,24 @@
 
 AlgoPilot is an AI-powered VS Code Extension designed to assist developers, especially those in algorithm competitions or working on performance-critical code. It acts as an intelligent coach, providing proactive feedback on code quality, efficiency, and safety.
 
-## Setup
+## Installation
 
-The AlgoPilot extension should work out-of-the-box. Ensure your internet connection is active as it relies on an external LLM service.
+1. Open **Visual Studio Code**.
+2. Click on the **Extensions** icon in the Activity Bar on the side (or press `Ctrl+Shift+X` / `Cmd+Shift+X`).
+3. Search for **`AlgoPilot`**.
+4. Click **Install** to add the extension to your editor.
+
+## Setup & Configuration
+
+Once installed, you need to configure your API Key to start using AlgoPilot.
+
+1. Open the **Command Palette** by pressing `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (Mac).
+2. Type and select **`AlgoPilot: Set API Key`**. 
+3. Enter your API Key in the input box and press **Enter**.
+
+## Quick Start
+
+After setup is complete, **you are now ready to use AlgoPilot!**
 
 ## Implemented Features
 
@@ -49,6 +64,13 @@ Learn to code by doing, with an AI tutor that guides you step-by-step.
 *   **Goal Decomposition**: Tell the tutor what you want to build (e.g., "A binary search tree"), and it breaks it down into manageable sub-tasks.
 *   **Interactive Guidance**: Get hints and code snippets for each step without being spoon-fed the entire solution.
 *   **Gamified Progress**: Track your progress through the lesson plan and celebrate completion.
+
+### 5. Smart LeetCode Integration
+
+AlgoPilot streamlines your competitive programming practice by bridging the gap between learning and application. It recommends relevant problems and allows you to interact with LeetCode without leaving your editor.
+
+* **Tailored Recommendations**: Suggests LeetCode problems based on your current skill level or specific algorithm topics to help you improve efficiently.
+* **Direct Submission**: Enables you to submit your solutions to LeetCode directly from VS Code and view judgment results (Accepted, Wrong Answer, etc.) instantly.
 
 ## System Design Diagram
 <div align="center">
